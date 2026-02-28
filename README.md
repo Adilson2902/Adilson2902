@@ -27,12 +27,20 @@ Sou um desenvolvedor apaixonado por criar interfaces modernas, de alta performan
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adilson2902&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adilson2902&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adilson2902&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Adilson2902&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adilson2902&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adilson2902&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adilson2902&bg_color=0D1117&color=38BDAE&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <sub>As métricas são atualizadas automaticamente pela API do GitHub (com cache de alguns minutos até ~2h).</sub>
 </p>
 
 ---
@@ -43,6 +51,12 @@ Sou um desenvolvedor apaixonado por criar interfaces modernas, de alta performan
   <a href="mailto:nunojraa3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://wa.me/5581982644557" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://instagram.com/adilsonadriano123" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+<p align="center">
+  📧 <a href="mailto:nunojraa3@gmail.com">nunojraa3@gmail.com</a> |
+  📱 <a href="https://wa.me/5581982644557">+55 81 98264-4557</a> |
+  📸 <a href="https://instagram.com/adilsonadriano123">@adilsonadriano123</a>
 </p>
 
 <br/>
