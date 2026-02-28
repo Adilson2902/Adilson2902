@@ -27,20 +27,16 @@ Sou um desenvolvedor apaixonado por criar interfaces modernas, de alta performan
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adilson2902&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Adilson2902&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="./metrics.private.svg" alt="GitHub Metrics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adilson2902&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="Top Languages" />
+  <img src="./metrics.languages.svg" alt="GitHub Languages Metrics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adilson2902&bg_color=0D1117&color=38BDAE&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <sub>As métricas são atualizadas automaticamente pela API do GitHub (com cache de alguns minutos até ~2h).</sub>
+  <sub>Atualizado automaticamente a cada 6 horas via GitHub Actions.</sub><br/>
+  <sub>Para incluir repositórios privados, configure o secret <code>METRICS_TOKEN</code> com escopo <code>repo</code>.</sub>
 </p>
 
 ---

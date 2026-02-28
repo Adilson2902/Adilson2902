@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" role="img" aria-label="Profile metrics placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="360" rx="14" fill="url(#bg)" />
+  <text x="450" y="150" text-anchor="middle" fill="#58a6ff" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">
+    Profile metrics are being configured
+  </text>
+  <text x="450" y="195" text-anchor="middle" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="18">
+    Run GitHub Action "profile-metrics" to generate this file
+  </text>
+  <text x="450" y="230" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="15">
+    Private stats will appear after METRICS_TOKEN is added
+  </text>
+</svg>
