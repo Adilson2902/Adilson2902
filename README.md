@@ -1,62 +1,17 @@
-# Olá, eu sou o Adilson! 👋
+### Olá, sou o Adilson 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=535&lines=Desenvolvedor+Frontend;Criador+de+Experi%C3%AAncias+Modernas;Especialista+em+React+%26+Next.js" alt="Typing SVG" />
-</p>
+Desenvolvedor Front-End focado em **React, Next.js (App Router), React Native, TypeScript, Tailwind CSS e integrações com IA**.
 
-## 🚀 Sobre mim
+#### 🚀 Projetos em produção
+- **[Toolspace](https://www.toolspace.com.br/)** — Hub com 400+ ferramentas web client-side (PDF, Boleto, CLT, Reforma Tributária, ENEM, IA) em Next.js.
+- **[Aura UI](https://aura.toolspace.com.br/)** — Design system para React 19, Tailwind v4 e React Native com 33 temas, efeitos 3D e servidor MCP.
+- **[toolspaceDev](https://dev.toolspace.com.br/)** — Plataforma de fluxo Kanban + agentes de IA do backlog ao PR.
+- **[Valen Rush](https://valenrush.toolspace.com.br/)** — Jogo web em tempo real (*Crônicas de Valtara*).
 
-Sou um desenvolvedor apaixonado por criar interfaces modernas, de alta performance e com experiências de usuário excepcionais. Tenho foco especial em animações 3D, *glassmorphism* e design arrojado.
+#### 🛠️ Stack principal
+`React 19` · `Next.js` · `React Native` · `TypeScript` · `Tailwind CSS v4` · `shadcn/ui` · `Framer Motion` · `Three.js` · `Vercel AI SDK / Gemini`
 
-- 💻 Trabalhando principalmente com **Next.js 15, React 19, TypeScript e Tailwind CSS 4**.
-- 🌟 Especialidades: **Performance, Animações (Framer Motion) e UI/UX**.
-- 💼 Confira meu portfólio completo: **[adilson-matos-front.vercel.app](https://adilson-matos-front.vercel.app/)**
-
----
-
-## 🛠️ Minhas Ferramentas e Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,css,html,git,github,vercel,vscode,figma&theme=dark" alt="Minhas Skills" />
-  </a>
-</p>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="./metrics.private.svg" alt="GitHub Metrics" />
-</p>
-
-<p align="center">
-  <img src="./metrics.languages.svg" alt="GitHub Languages Metrics" />
-</p>
-
-<p align="center">
-  <sub>Atualizado automaticamente a cada 6 horas via GitHub Actions.</sub><br/>
-  <sub>Para incluir repositórios privados, configure o secret <code>METRICS_TOKEN</code> com escopo <code>repo</code>.</sub>
-</p>
-
----
-
-## 📫 Como me encontrar
-
-<p align="center">
-  <a href="mailto:nunojraa3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://wa.me/5581982644557" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://instagram.com/adilsonadriano123" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
-
-<p align="center">
-  📧 <a href="mailto:nunojraa3@gmail.com">nunojraa3@gmail.com</a> |
-  📱 <a href="https://wa.me/5581982644557">+55 81 98264-4557</a> |
-  📸 <a href="https://instagram.com/adilsonadriano123">@adilsonadriano123</a>
-</p>
-
-<br/>
-
-<p align="center">
-  <i>Desenvolvido com 💜 e muito café ☕</i>
-</p>
+#### 📫 Contato (PJ / Freelance)
+- **Portfólio:** [adilson-portfolio.vercel.app](https://adilson-portfolio.vercel.app/)
+- **LinkedIn:** [linkedin.com/in/adilson-adriano-062018197](https://www.linkedin.com/in/adilson-adriano-062018197)
+- **E-mail:** contato@toolspace.com.br
